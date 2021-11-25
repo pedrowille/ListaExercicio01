@@ -3,3 +3,13 @@ C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\obj\D
 C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\obj\Debug\net6.0\exercicio07.AssemblyInfoInputs.cache
 C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\obj\Debug\net6.0\exercicio07.AssemblyInfo.cs
 C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\obj\Debug\net6.0\exercicio07.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\bin\Debug\net6.0\exercicio07.exe
+C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\bin\Debug\net6.0\exercicio07.deps.json
+C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\bin\Debug\net6.0\exercicio07.runtimeconfig.json
+C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\bin\Debug\net6.0\exercicio07.dll
+C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\bin\Debug\net6.0\ref\exercicio07.dll
+C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\bin\Debug\net6.0\exercicio07.pdb
+C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\obj\Debug\net6.0\exercicio07.dll
+C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\obj\Debug\net6.0\ref\exercicio07.dll
+C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\obj\Debug\net6.0\exercicio07.pdb
+C:\Users\Usuario\Desktop\C#\ListaExercicios01\ListaExercicio01\exercicio07\obj\Debug\net6.0\exercicio07.genruntimeconfig.cache
