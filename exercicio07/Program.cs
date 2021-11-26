@@ -40,7 +40,7 @@ namespace Exercicio02
                 aprovado = false;
             }
 
-            Console.WriteLine($"Média das notas {n1} e {n2}: {media}.\nConceito final: {conceito} Aprovação: {aprovado}");
+            Console.WriteLine($"Média das notas {n1} e {n2}: {string.Format("{0:0.00}", media)}.\nConceito final: {conceito} Aprovação: {aprovado}");
         }
     }
 }

@@ -6,9 +6,25 @@ namespace Exercicio02
     {
         public static void Main(string[] args)
         {
-Console.WriteLine("Programa reajuste salarial:\nInforme o valor do salário:");
-string? textoSalario=Console.ReadLine();
-        double salario=Convert.ToDouble(textoSalario);
+Console.WriteLine("Programa reajuste salarial:");
+double salario = 0;
+bool digitacaoInvalida=true;
+while (digitacaoInvalida==true)
+{
+try
+{
+    Console.WriteLine("Informe o valor do salário:");
+        salario=Convert.ToDouble(Console.ReadLine());
+if (salario >0)
+digitacaoInvalida=false;
+else
+throw new Exception();
+}
+catch
+{
+    Console.WriteLine("Salário inválido.");
+}
+}
 double percentualAumento = 0;;
 double valorAumento = 0;
 double salarioReajustado = 0;

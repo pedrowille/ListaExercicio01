@@ -6,10 +6,23 @@ namespace Exercicio05
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Programa cálculo folha de pagamento:\nInforme o valor da sua hora:");
-            int valorHora = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Informe a quantidade de horas trabalhadas no mês:");
-            int qtdHoras = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Programa cálculo folha de pagamento:");
+            double valorHora = 0;
+            int qtdHoras = 0;
+            while (valorHora <1 || qtdHoras <1)
+        {
+                try
+                {
+                    Console.WriteLine("Informe o valor da sua hora:");
+                    valorHora = Convert.ToDouble(Console.ReadLine());
+                    Console.WriteLine("Informe a quantidade de horas trabalhadas no mês:");
+                    qtdHoras = Convert.ToInt32(Console.ReadLine());
+                }
+                catch
+                {
+                    Console.WriteLine("Valor(es) inválido(s).");
+                }
+            }
             double salarioBruto = qtdHoras * valorHora;
             double salarioLiquido, totalDescontos;
             double descontoIr;
